@@ -4,8 +4,10 @@
 ---
 
 ## Resume Builder Demo 🎬
-
-[Resume Builder Demo Video](https://github.com/vaarrun009/AI_Resume_Builder/blob/main/Resume_Builder_Demo.mp4)
+<video width="600" controls>
+  <source src="https://github.com/vaarrun009/AI_Resume_Builder/blob/main/Resume_Builder_Demo.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 ## Features 🚀
 
