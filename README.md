@@ -1,6 +1,6 @@
 ✨ AI_Resume_Builder 🧠🚀
 ---
-* **“There’s so much more to life than repetitive tasks…
+* “There’s so much more to life than repetitive tasks…
   Let AI handle the heavy lifting while you do what truly matters.”
   Be the true Almighty. 😎
   
