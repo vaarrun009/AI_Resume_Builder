@@ -19,7 +19,7 @@ os.makedirs(app.config['UPLOAD_FOLDER'], exist_ok=True)
 os.makedirs(app.config['PDF_FOLDER'], exist_ok=True)
 
 # Initialize the Gemini client
-client = genai.Client(api_key='')
+client = genai.Client(api_key='') #enter your API key from Google AI Studio
 
 # Check if playwright is installed
 def is_package_installed(package_name):
