@@ -1,4 +1,5 @@
-# AI_Resume_Builder
+# ![AI](https://media.giphy.com/media/26xBukh1cJ0PibnHW/giphy.gif) AI_Resume_Builder ![rocket](https://media.giphy.com/media/3o7abB06u9bNzA8lu8/giphy.gif)
+
 ✨ AI Resume Builder: Instantly generate multiple professional resume previews (HTML/PDF) from your text details via a dynamic web UI with download options.
 
 ---
