@@ -277,7 +277,7 @@ hobbies:
     playwright_installed = is_package_installed("playwright")
     
     return render_template(
-        'index3.html', 
+        'index.html', 
         default_text=default_text,
         playwright_installed=playwright_installed
     )
