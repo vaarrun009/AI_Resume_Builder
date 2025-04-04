@@ -10,7 +10,7 @@ import importlib.util
 from flask import session
 
 app = Flask(__name__)
-# app.config['SECRET_KEY'] = 'your-secret-key'
+app.config['SECRET_KEY'] = 'your-secret-key'
 app.config['UPLOAD_FOLDER'] = 'temp_files'
 app.config['PDF_FOLDER'] = 'pdf_files'
 
