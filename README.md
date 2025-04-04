@@ -29,7 +29,7 @@ https://github.com/user-attachments/assets/2b2d1bd9-6ebf-4668-9038-46e3ccb9276f
     * Font Awesome (Icons)
 * **Backend:**
     * Python
-    * Flask (Web Framework - *assuming based on previous context*)
+    * Flask 
     * Jinja2 (Template Engine)
 * **PDF Generation:**
     * Playwright
