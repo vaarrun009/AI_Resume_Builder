@@ -1,6 +1,6 @@
 ✨ AI_Resume_Builder 🧠🚀
 ---
-For once feel the Power
+* **There's lot more in life to do, like this 👇👇👇
 ---
 
 <img src="https://media.giphy.com/media/vQg4p7YpqDeJq/giphy.gif?cid=790b7611d3ymed1ljio2t24d3r7rgkynpmdcnwl6434lct6j&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="500"/>
