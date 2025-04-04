@@ -1,20 +1,23 @@
-# ✨ **AI Resume Builder** 🧠🚀
+# 🌌 **AI Resume Builder** ✨🧠
 
 ---
 
-> _“There’s so much more to life than repetitive tasks…_  
-> _Let AI handle the heavy lifting while you do what truly matters.”_  
-> **Be the true Almighty.** 😎  
+> _“Do the mundane, you must not._  
+> _Built for greatness, you are.”_  
 >  
-> **Start here 👇👇👇**
+> **The Force of AI, is with your resume** 🔮📄  
+>  
+> Begun, your job hunt has "Young Padawan" 👇👇👇
 
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/vQg4p7YpqDeJq/giphy.gif?cid=790b7611d3ymed1ljio2t24d3r7rgkynpmdcnwl6434lct6j&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="500" alt="Jim Carrey Almighty GIF"/>
+  <img src="https://media.giphy.com/media/26tn8zNgVmit475RK/giphy.gif?cid=790b7611il327ayk9uoe9u20vnp02htaab8u4wnajtstcebt&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="500" alt="Yoda AI Power GIF"/>
 </p>
 
 ---
+
+
 
 
 ## Resume Builder Demo 🎬
