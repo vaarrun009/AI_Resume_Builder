@@ -1,15 +1,21 @@
-✨ AI_Resume_Builder 🧠🚀
----
-* “There’s so much more to life than repetitive tasks…
-  Let AI handle the heavy lifting while you do what truly matters.”
-  Be the true Almighty. 😎
-  
-  Start here 👇👇👇
----
-
-<img src="https://media.giphy.com/media/vQg4p7YpqDeJq/giphy.gif?cid=790b7611d3ymed1ljio2t24d3r7rgkynpmdcnwl6434lct6j&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="500"/>
+# ✨ **AI Resume Builder** 🧠🚀
 
 ---
+
+> _“There’s so much more to life than repetitive tasks…_  
+> _Let AI handle the heavy lifting while you do what truly matters.”_  
+> **Be the true Almighty.** 😎  
+>  
+> **Start here 👇👇👇**
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/vQg4p7YpqDeJq/giphy.gif?cid=790b7611d3ymed1ljio2t24d3r7rgkynpmdcnwl6434lct6j&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="500" alt="Jim Carrey Almighty GIF"/>
+</p>
+
+---
+
 
 ## Resume Builder Demo 🎬
 https://github.com/user-attachments/assets/2b2d1bd9-6ebf-4668-9038-46e3ccb9276f
