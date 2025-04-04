@@ -10,7 +10,7 @@ https://github.com/user-attachments/assets/2b2d1bd9-6ebf-4668-9038-46e3ccb9276f
 ## Features 🚀
 
 * **📝 Text Input:** Easily paste your existing resume details or write new ones.
-* **🤖 AI-Powered Generation:** Automatically formats your input into structured resume data (or uses predefined logic). *(Clarify what the "AI" part specifically does if possible)*
+* **🤖 AI-Powered Generation:** Automatically formats your input into structured resume data (or uses predefined logic). 
 * **🎨 Multiple Templates:** Generates previews using several distinct visual templates.
 * **👁️ Live Preview:** Instantly view the selected resume version within the app.
 * **🖼️ Sleek UI:** Modern interface with glassmorphism effects, subtle animations, and a video background.
@@ -33,8 +33,8 @@ https://github.com/user-attachments/assets/2b2d1bd9-6ebf-4668-9038-46e3ccb9276f
     * Jinja2 (Template Engine)
 * **PDF Generation:**
     * Playwright
-* **(Optional: AI Component)**
-    * *Specify any AI libraries or APIs used here, e.g., spaCy, NLTK, OpenAI API, or custom logic.*
+* **AI Component**
+    * Gemini
 
 ---
 
